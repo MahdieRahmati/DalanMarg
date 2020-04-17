@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9460c116-46b4-44c6-b998-e077cdb01f84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aaLU6v69GmdiY0UqXIGY9YgxA9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.ac.kntu.Main" />
+      <module name="DeathPassage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.kntu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9460c116-46b4-44c6-b998-e077cdb01f84" name="Default Changelist" comment="" />
+      <created>1586968770763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586968770763</updated>
+      <workItem from="1586968776859" duration="36404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1586968820437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586968820437" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1587133264156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587133264156" />
+    <state width="1493" height="565" key="GridCell.Tab.0.bottom" timestamp="1587138136195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="565" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587138136195" />
+    <state width="1493" height="565" key="GridCell.Tab.0.center" timestamp="1587138136194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="565" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587138136194" />
+    <state width="1493" height="565" key="GridCell.Tab.0.left" timestamp="1587138136194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="565" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587138136194" />
+    <state width="1493" height="565" key="GridCell.Tab.0.right" timestamp="1587138136194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="565" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587138136194" />
+    <state x="499" y="178" key="extract.method.dialog" timestamp="1587048534138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="178" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587048534138" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DeathPassage$Main.ic" NAME="Main Coverage Results" MODIFIED="1587133941919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ir.ac.kntu.*</FILTER>
+    </SUITE>
+  </component>
+</project>
