@@ -1,4 +1,4 @@
-package ir.ac.kntu;
+package ir.ac.kntu.gamelogic;
 
 public class Soldier {
     protected String name ;

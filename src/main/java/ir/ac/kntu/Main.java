@@ -1,5 +1,8 @@
 package ir.ac.kntu;
 
+import ir.ac.kntu.gamelogic.HandleGame;
+import ir.ac.kntu.gamelogic.Soldier;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ir.ac.kntu;
+package ir.ac.kntu.gamelogic;
 
 public class AssaultRifle extends Gun {
     public AssaultRifle(int damageRate, int contactRate, Bullet bullet) {

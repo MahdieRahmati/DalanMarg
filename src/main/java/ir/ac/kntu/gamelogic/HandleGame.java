@@ -1,4 +1,4 @@
-package ir.ac.kntu;
+package ir.ac.kntu.gamelogic;
 
 import java.util.ArrayList;
 
@@ -18,7 +18,7 @@ public class HandleGame {
     }
 
 
-    static ArrayList<Soldier> randomGroup( int length ){
+    public static ArrayList<Soldier> randomGroup(int length){
         ArrayList<Soldier> group = new ArrayList<>() ;
         for ( int i =0 ; i < length ; i++ ){
             Soldier soldier = new Soldier("S"+i , 50 , randomGun());
@@ -51,7 +51,7 @@ public class HandleGame {
     }
 
 
-    static void game(ArrayList<Soldier> gp1 , ArrayList<Soldier> gp2 , ArrayList<Soldier> dead  ){
+    public static void game(ArrayList<Soldier> gp1, ArrayList<Soldier> gp2, ArrayList<Soldier> dead){
         int i = 1 ;
         while ( true ) {
             Soldier soldier1 = randomSoldier(gp1);
